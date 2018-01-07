@@ -8,7 +8,7 @@ import {
 } from "@angular/core";
 import { FormsModule, NG_VALUE_ACCESSOR } from "@angular/forms";
 import { registerElement } from "nativescript-angular/element-registry";
-import { BaseValueAccessor } from "nativescript-angular/forms/value-accessors/base-value-accessor";
+import { BaseValueAccessor } from "nativescript-angular/value-accessors/base-value-accessor";
 import { View } from "tns-core-modules/ui/core/view";
 import { isBlank } from "nativescript-angular/lang-facade";
 
